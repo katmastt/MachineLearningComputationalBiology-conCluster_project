@@ -12,4 +12,4 @@ In the repository there are 2 different folders, one for each dataset. Each data
 
 # Run
 
-To run our project you should download the textfile and the python notebook of each dataset and place them in two different folders. When you run the notebooks some intermediate text files would be created in your folder. These files contain the altered cell matrix through the different steps of the pipeline. 
+To run our project you should download the textfile and the python notebook of each dataset (dataset_1.ipynb, dataset_2.ipynb) and place them in two different folders. When you run the notebooks some intermediate text files would be created in your folder. These files contain the altered cell matrix through the different steps of the pipeline. 
